@@ -1,0 +1,11 @@
+Implementation of Instances and relevant classes used in the following learning procedure
+
+Mainly difference is that this version of instances removes the FastVector class, resulting in a much simplified dataset representation.
+
+however, this class is just an initial one, and have been tested on 
+	1. loading data containing real, numerical, nominal attributes 
+	2. loading full and sparse data
+	3. transmition from a client to a server
+so, so far the following works have to been done next
+	1. the functions needed in the learning procedure are not implemented
+	2. date, string attributes are not tested

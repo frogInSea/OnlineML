@@ -1,4 +1,5 @@
-Implementation of Instances and relevant classes used in the following learning procedure
+ll package contains implementation of Instances and relevant classes used in the following learning procedure
+test package is a test program
 
 Mainly difference is that this version of instances removes the FastVector class, resulting in a much simplified dataset representation.
 
